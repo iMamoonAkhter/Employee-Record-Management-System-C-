@@ -1,6 +1,6 @@
 # Employee Record Management System in C++
 
-![Demo](demo/demo.png)
+![Demo](demo.png)
 
 ## Overview
 
