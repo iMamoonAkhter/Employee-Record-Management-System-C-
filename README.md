@@ -1,26 +1,16 @@
 # Employee Record Management System in C++
 
-![Demo](demo.png)
+![Demo](demo/demo.png)
 
 ## Overview
 
-Welcome to the Employee Record Management System in C++. This console-based program allows you to efficiently manage employee records, providing features for adding, deleting, and modifying employee information. The system uses file I/O operations to store and retrieve data.
+Welcome to the **Employee Record Management System in C++**! This console-based program allows you to input employee information and store it in a file structure for persistent data storage.
 
 ## Features
 
-- **Add Employee:**
-  - Collects comprehensive details such as name, ID, position, and salary.
-  - Appends new employee records to the existing data file.
-
-- **Delete Employee:**
-  - Enables users to remove a specific employee record by providing the index.
-
-- **Modify Employee:**
-  - Displays a list of employee IDs with corresponding indices.
-  - Allows users to update the details of a selected employee.
-
-- **Clear Console Screen:**
-  - Enhances the user interface by providing a clean and organized experience.
+- **Employee Information Input:**
+  - Collects information such as name, ID, position, and salary for two employees.
+  - Stores the entered employee records in a file for future reference.
 
 ## Demo
 
@@ -41,7 +31,7 @@ Welcome to the Employee Record Management System in C++. This console-based prog
     ./employee_management
     ```
 
-3. Follow the on-screen instructions to manage employee records.
+3. Follow the on-screen instructions to input employee information.
 
 ## Requirements
 
@@ -51,6 +41,10 @@ Welcome to the Employee Record Management System in C++. This console-based prog
 ## Contribution
 
 Contributions are welcome! If you have suggestions or improvements, feel free to create an issue or submit a pull request.
+
+## Demo Screenshot
+
+![Demo](demo/demo.png)
 
 ## License
 
